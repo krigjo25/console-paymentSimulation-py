@@ -1,5 +1,5 @@
-# Cocaine machine
-An application  where the user input takes in spesific coins to pay the due bill
+# Payment Simulation
+An application  To simulates to pay a due bill, the application takes in spesific coins.
 
 The application was implemented as a CS50 assignment.<br>
 Please respect, and keep the [Academic Honesty Policy](https://cs50.harvard.edu/x/2023/honesty/) in mind.<br>
